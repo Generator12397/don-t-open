@@ -3,5 +3,6 @@
 <br/>  
 this is def which counts the repetition of words in a sentence
 
-[id]:
-!(/Generator12397/don-t-open/main/markdown.png)
+
+
+<img src="https://github.com/Generator12397/don-t-open/blob/main/markdown.png" width="200" height="200">
