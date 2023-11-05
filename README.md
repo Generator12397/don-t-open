@@ -5,4 +5,4 @@ this is def which counts the repetition of words in a sentence
 
 
 
-<img src="https://github.com/Generator12397/don-t-open/blob/main/markdown.png" width="200" height="200">
+<img src="https://github.com/Generator12397/don-t-open/blob/main/markdown.png" width="160" height="90">
