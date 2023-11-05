@@ -11,7 +11,7 @@ turtle.left(1200)
 
 dr_fr = {"январь": [["name","data"]["name","data"]]}
 '''
-def dict_append_proposal():
+def dict_append_sentence():
     a = ""
     c = []
     d = 0
@@ -40,7 +40,7 @@ def dict_append_proposal():
 
 aa = input("write start to start text_analisator")
 if aa == "start":
-    print(dict_append_proposal())
+    print(dict_append_sentence())
     input()
 
 '''
